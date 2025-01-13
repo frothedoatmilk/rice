@@ -1,0 +1,50 @@
+conky.config = {
+    alignment = 'tl',
+    background = false,
+    border_inner_margin = 0,
+    border_outer_margin = 0,
+    border_width = 2,
+    cpu_avg_samples = 2,
+    default_color = 'white',
+    default_outline_color = 'white',
+    default_shade_color = 'white',
+    double_buffer = true,
+    draw_borders = false,
+    draw_graph_borders = false,
+    draw_outline = false,
+    draw_shades = false,
+    extra_newline = false,
+    font = 'Helvetica UltraCompressed:size=75',
+    font1 = 'Helvetica UltraCompressed:size=156',
+    font2 = 'Helvetica UltraCompressed:size=93',
+    gap_x = 270,
+    gap_y = 239,
+    minimum_height = 5,
+    minimum_width = 5,
+    net_avg_samples = 2,
+    no_buffers = true,
+    out_to_console = false,
+    out_to_ncurses = false,
+    out_to_stderr = false,
+    out_to_x = true,
+    own_window = true,
+    own_window_class = 'Conky',
+    own_window_hints = 'undecorated,sticky,skip_taskbar,skip_pager,below',
+    own_window_transparent = true,
+    own_window_argb_visual = true,
+    show_graph_range = false,
+    show_graph_scale = true,
+    stippled_borders = 0,
+    update_interval = 1.0,
+    uppercase = false,
+    use_spacer = 'none',
+    use_xft = true,
+
+    color0 = "FFAA00",
+    color1 = "FFAA00"
+}
+
+conky.text = [[
+${color1}${font1}${time %H:%M}${font2}
+${alignc}${color0}${font}${time %m.%d.%Y}
+]]
