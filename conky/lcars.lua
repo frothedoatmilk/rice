@@ -7,10 +7,10 @@ end
 
 function conky_pad_uptime(uptime)
   uptime = conky_parse(uptime)
-  _, _, hours, minutes = string.find(uptime, "(%d+)h (%d+)m")
+  _, _, hours, minutes, seconds = string.find(uptime, "(%d+)h (%d+)m (%d+)s")
   _, _, days = string.find(uptime, "(%d+)d")
   if days == nil then days = 0 end
-  return string.format("%03i  %03i  %03i", tonumber(days), tonumber(hours), tonumber(minutes))
+  return string.format("%03i  %03i  %03i", tonumber(days) * 24 + tonumber(hours), tonumber(minutes), tonumber(seconds))
 end
 
 function conky_kernel_padded(kernel)
@@ -28,9 +28,9 @@ end
 
 function conky_battery_status(battery_string)
   status_map = {
-    ["charged"] = "CHD",
-    ["charging"] = "CHG",
-    ["discharging"] = "BAT"
+    ["Charged"] = "CHD",
+    ["Charging"] = "CHG",
+    ["Discharging"] = "DIS"
   }
   return status_map[conky_parse(battery_string)] or "HUH"
 end
