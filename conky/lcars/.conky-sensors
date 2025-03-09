@@ -11,9 +11,9 @@ conky.config = {
     draw_outline = false,
     draw_shades = false,
     extra_newline = false,
-    font = 'Helvetica UltraCompressed:size=25',
+    font = 'LCARS Font:size=25',
     gap_x = 17,
-    gap_y = 15,
+    gap_y = 8,
     minimum_height = 5,
     minimum_width = 5,
     net_avg_samples = 2,
@@ -42,5 +42,5 @@ conky.config = {
 conky.text = [[
 ${color0}${alignr}${lua kernel_padded $kernel}  ${lua pad_uptime $uptime}  ${lua three_zero_pad ${hwmon thinkpad temp 1}}  ${lua three_zero_pad ${cpu cpu0}}
 ${alignr}${lua three_zero_pad ${cpu cpu1}}  ${lua three_zero_pad ${cpu cpu2}}  ${lua three_zero_pad ${cpu cpu3}}  ${lua three_zero_pad ${cpu cpu4}}  ${lua three_zero_pad ${cpu cpu5}}  ${lua three_zero_pad ${cpu cpu6}}  ${lua three_zero_pad ${cpu cpu7}}  ${lua three_zero_pad ${cpu cpu8}}
-${alignr}000  000  000  000  ${lua sound_description ${pa_sink_active_port_description}}  ${if_pa_sink_muted}MUT${else}${lua three_zero_pad ${pa_sink_volume}}${endif}  ${lua battery_status $battery_status}  ${lua three_zero_pad ${battery_percent}}
+${alignr}000  000  000  000  000  000  ${lua battery_status $battery_status}  ${lua three_zero_pad ${battery_percent}}
 ]]
