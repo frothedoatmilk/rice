@@ -7,10 +7,10 @@ end
 
 function conky_pad_uptime(uptime)
   uptime = conky_parse(uptime)
-  _, _, hours, minutes, seconds = string.find(uptime, "(%d+)h (%d+)m (%d+)s")
+  _, _, hours, minutes = string.find(uptime, "(%d+)h (%d+)m")
   _, _, days = string.find(uptime, "(%d+)d")
   if days == nil then days = 0 end
-  return string.format("%03i  %03i  %03i", tonumber(days) * 24 + tonumber(hours), tonumber(minutes), tonumber(seconds))
+  return string.format("%03i  %03i  %03i", tonumber(days), tonumber(hours), tonumber(minutes))
 end
 
 function conky_kernel_padded(kernel)
