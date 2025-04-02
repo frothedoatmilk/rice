@@ -1,2 +1,3 @@
 albert/current-theme.qss
 conky/.conky*
+conky/*.lua
