@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.74999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="three_rules_to_live_by.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50627589"
+     inkscape:cx="1169.3229"
+     inkscape:cy="613.30197"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#800033;stroke-width:0.251549;-inkscape-stroke:none;fill-opacity:1"
+       id="rect1"
+       width="508"
+       height="285.75"
+       x="2.220446e-14"
+       y="3.4305891e-14" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <g
+       id="g14"
+       transform="translate(0.60983986,10.131772)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.122092;-inkscape-stroke:none"
+         x="90.448769"
+         y="121.39101"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           x="90.448769"
+           y="121.39101">(1) Don't be afraid of anyone</tspan><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           x="90.448769"
+           y="138.43639">(2) Get a really good bullshit detector</tspan><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           x="90.448769"
+           y="155.48175">(3) Be really, really tender.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.262359;-inkscape-stroke:none"
+         x="67.309196"
+         y="94.416801"
+         id="text14"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.262359"
+           x="67.309196"
+           y="94.416801">Three rules to live by:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.262359;-inkscape-stroke:none"
+         x="438.31204"
+         y="181.55597"
+         id="text14-1"><tspan
+           sodipodi:role="line"
+           id="tspan14-7"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.262359"
+           x="438.31204"
+           y="181.55597">Laurie Anderson and Lou Reed</tspan></text>
+    </g>
+  </g>
+</svg>
