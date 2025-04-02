@@ -9,14 +9,14 @@ conky.config = {
     default_outline_color = 'white',
     default_shade_color = 'white',
     double_buffer = true,
-    draw_borders = true,
+    draw_borders = false,
     draw_graph_borders = false,
     draw_outline = false,
     draw_shades = false,
     extra_newline = false,
     font = 'JetBrains Mono:size=12',
-    gap_x = 0,
-    gap_y = 60,
+    gap_x = 15,
+    gap_y = 15,
     minimum_height = 5,
     minimum_width = 5,
     net_avg_samples = 2,
@@ -41,8 +41,8 @@ conky.config = {
 }
 
 conky.text = [[
-${time %H:%M %B %d, %Y}
-${lua three_pad ${cpu cpu1}}% ${lua three_pad ${cpu cpu2}}% ${lua three_pad ${cpu cpu3}}% ${lua three_pad ${cpu cpu4}}%
-${lua three_pad ${cpu cpu5}}% ${lua three_pad ${cpu cpu6}}% ${lua three_pad ${cpu cpu7}}% ${lua three_pad ${cpu cpu8}}%
+${time %H:%M %B %d, %Y} || \
+${lua three_pad ${cpu cpu1}}% ${lua three_pad ${cpu cpu2}}% ${lua three_pad ${cpu cpu3}}% ${lua three_pad ${cpu cpu4}}%\
+${lua three_pad ${cpu cpu5}}% ${lua three_pad ${cpu cpu6}}% ${lua three_pad ${cpu cpu7}}% ${lua three_pad ${cpu cpu8}}% || \
 ${mem} / ${memmax}
 ]]
