@@ -4,6 +4,7 @@
     border: none;
     color : #ffffff;
     background-color: transparent;
+    font: "JetBrains Mono";
 }
 
 #frame {
@@ -38,6 +39,10 @@ QListView {
     background: #000000;
     border: 1px solid white;
     selection-color: #000000;
+}
+
+QListView::item {
+    font: "JetBrains Mono";
 }
 
 QListView::item:selected {
