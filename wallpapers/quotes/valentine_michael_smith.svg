@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.74999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="valentine_michael_smith.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.52807656"
+     inkscape:cx="871.08582"
+     inkscape:cy="576.62094"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#800000;stroke-width:0.251549;-inkscape-stroke:none;fill-opacity:1"
+       id="rect1"
+       width="508"
+       height="285.75"
+       x="2.220446e-14"
+       y="3.4305891e-14" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <g
+       id="g14"
+       transform="translate(0.60983986,10.131772)">
+      <g
+         id="g3"
+         transform="translate(10.664927,-10.835656)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.122092;-inkscape-stroke:none"
+           x="46.396477"
+           y="113.37449"
+           id="text2"><tspan
+             sodipodi:role="line"
+             id="tspan13"
+             x="46.396477"
+             y="113.37449">&quot;I've found out why people laugh. They laugh</tspan><tspan
+             sodipodi:role="line"
+             x="46.396477"
+             y="130.41986"
+             id="tspan2">because it hurts so much...because it's the only</tspan><tspan
+             sodipodi:role="line"
+             x="46.396477"
+             y="147.46524"
+             id="tspan3">that that'll make it stop hurting.&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.262359;-inkscape-stroke:none"
+           x="439.42883"
+           y="181.55597"
+           id="text14-1"><tspan
+             sodipodi:role="line"
+             id="tspan14-7"
+             style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.6363px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.262359"
+             x="439.42886"
+             y="181.55597">Valentine Michael Smith, The Man From Mars</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
