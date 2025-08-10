@@ -1,6 +1,6 @@
 # Various Ricing Configurations
 
-Yes. I am a nerd. How could you tell?
+I don't actively use (or maintain) these configs anymore. Feel free to use them though!
 
 To use these configs, you'll need:
 
